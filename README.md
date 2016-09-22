@@ -10,6 +10,9 @@ Five techniques are Tables, float, CSS frameworks and Flexbox
 
 Review:
 
-This article was organized and easy to read.  Article had examples of all 5 techniques. Examples and tutorials were good. Tuturial showed how to write this code in step by step. This article also has comparison of all five techniques. I really liked when they discussed about which one works best in different situations. I liked everything about this article.
-
+This article was organized and easy to read.  Article had examples of all 5 techniques. Examples and tutorials were good. It showed tuturial in step by step. It was easy to learn from article This article also had comparison of all five techniques. I really liked when they discussed about which one works best in different situations. I liked everything about this article. 
+        
+       
+Everything was good in this article; however, i thought this article could be better if it discribed advanced version of 5 techniques. It will be better if they had video tuturial.  
+    
 
